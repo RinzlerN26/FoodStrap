@@ -22,7 +22,7 @@ A webapp for food ordering built with PHP and MySQL and front end implemented wi
    ```sh
    git clone https://github.com/RinzlerN26/FoodStrap.git
    ```
-3. Run MySQL command line client and execute the sql scripts.
+3. Run MySQL command line client and execute the sql script.
    
    ```sh
    source ${fileDirname}\Database.sql
